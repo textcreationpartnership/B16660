@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guildhald. Civit. Exon. Ad general. Session. Pacis tent. apud Guildhaldam civitat. prædict. in &amp; pro civitat. &amp; com. civitat. Exon, decimo sexto die Aprilis, anno regni dom. nostri Caroli secundi dei gratia Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, regis, fidei defensor. &amp;c. tricessimo quinto, annoque Dom. 1683.</title>
+            <author>England and Wales. Court of Quarter Sessions of the Peace (Guildhall)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16660</idno><idno type="EEBO-CITATION">99886322</idno>
+  <idno type="VID">188502</idno>
+  <idno type="EEBO-PROQUEST">2264214811</idno>
+  
+            <idno type="STC">Wing A465C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.11[105]</idno>
+            <idno type="STC">ESTC R225833</idno>
+            <idno type="PROQUEST">ocm99886322</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886322e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188502)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:3[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Guildhald. Civit. Exon. Ad general. Session. Pacis tent. apud Guildhaldam civitat. prædict. in &amp; pro civitat. &amp; com. civitat. Exon, decimo sexto die Aprilis, anno regni dom. nostri Caroli secundi dei gratia Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, regis, fidei defensor. &amp;c. tricessimo quinto, annoque Dom. 1683.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Guildhall)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George May book-seller in Exon,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>anno Dom. 1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>'Guildhald ... Exon.' are inclosed by a right curly bracket.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188502:1"/>
+            <head>Guildhald. <hi>Civit.</hi> Exon. Ad General. Session. Pacis tent. apud <hi>Guildhaldam</hi> Civitat. praedict. in &amp; pro Civitat. &amp; Com. Civitat. <hi>Exon,</hi> decimo sexto die <hi>Aprilis,</hi> Anno Regni Dom. nostri <hi>Caroli</hi> Secundi Dei Gratia <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae,</hi> Regis, fidei Defensor. <hi>&amp;c.</hi> Tricessimo quinto, Annoque Dom. 1683.</head>
+            <p>WE have with great satisfaction observed what good success the vigorous prosecution of our Laws against Dissenters hath had in other places, and we well hoped that either the fear of the like prosecution, or a due sense of their Duty might have brought the Dissenters of this place to a due Confor<g ref="char:EOLhyphen"/>mity; but to our grief we find them so strangely settled upon their Lees and wedded to their faction and Schism, that nothing but a seasonable and vigorous application of our Laws can bring them to partake of the blessings of the best Reformed Church in the World, to become Dutiful Subjects to his Majesty, and to make them friends to our publick peace.</p>
+            <p>In all Duty and thankfulness we humbly acknowledge, we of this City have by a Succession of gracious Kings been more particularly obliged then other places, and the great Priviledges we now enjoy should raise us to an higher pitch of Loyalty. And therefore we take this opportunity to declare that for the safe<g ref="char:EOLhyphen"/>ty of his Majesties Sacred Person, and security of the publick Peace, we will henceforward put the Laws effectually in execution against all Dissenters, whe<g ref="char:EOLhyphen"/>ther Papists or other Sectaries, as being fully satisfied that the continuance of Faction and Sedition will end in nothing else, then the ruin of our Church and State</p>
+            <p>
+               <hi>Imprimis,</hi> We resolve, order and agree in pursuance of a Statute, made in the seventeenth year of this King, Intituled an Act for the restraining Non-con<g ref="char:EOLhyphen"/>formist Ministers, from inhabiting in Corporations, to issue out our Warrants to the several Constables of this City and County, strictly requiring them to ap<g ref="char:EOLhyphen"/>prehend and take into custody all Non-conformist Preachers, and from time to time to make diligent search in all places where they may have any cause to suspect they may lurk or hide, against whom we resolve to proceed as the said Law directs, as knowing that they are the Springs that set the mischievous Engine of Faction on work and under the plausible pretences of Religion, poyson the people with Seditious principles.</p>
+            <p>
+               <hi>Secondly,</hi> We will likewise order our Constables every Sunday and other days when there shall be any cause of suspicion, to make diligent search in all places within their several Parishes, where Conventicles have been usually held, or where they are suspected to be held, and if they shall find any persons so unlaw<g ref="char:EOLhyphen"/>fully assembled, to give us, or one of us Information thereof, to the intent they may be proceeded against as the Law directs.</p>
+            <p>
+               <hi>Thirdly,</hi> We resolve strictly to enjoyn all our Constables to make presentments unto us, of all persons within the City and County, who are above the age of sixteen years, and do repair every Sunday to their Parish Church, and there abide orderly and soberly during the whole time of Divine service. And we intend to that purpose to have a meeting once every Month, within the <hi>Guildhall</hi> of this City, for the taking of their presentments as aforesaid.</p>
+            <p>
+               <hi>Fourthly,</hi> As the Holy Sacrament of the Lords Supper, is one of the most Sacred Ordinances in Religion, so it is the best Test as well to discriminate the Papists as other dangerous Sectaries, who have swallowed so many Rebellious Leagues and Covenants, and have engaged themselves in so many factious Con<g ref="char:EOLhyphen"/>federacies and Associations, against the Government. And many of them (we fear) have not in Testimony of their Repentance, received the Holy Sa<g ref="char:EOLhyphen"/>crament, according to the constitution of our Church, since its happy re-establishment. We do therefore Order that the several Church-Wardens and Con<g ref="char:EOLhyphen"/>stables of every Parish of this City and County shall present unto us the Names of all such persons as shall absent themselves from their Parish Church by the space of a Month, and have not within the year last past received the Holy Sacrament against all which we will proceed, according to the direction of the Law.</p>
+            <p>
+               <hi>Fifthly,</hi> That our Schismaticks may not have any just cause to upbraid us, with the countenancing of Lewdness and Debauchery, (of which many of themselves are too much guilty) we resolve as severely to punish all Swearers, Drunkards, and Atheistical persons, that we shall receive any Information against. And we will License none to keep Ale-houses, but honest, sober and Loyal persons, and such as shall bring a Certificate from their Minister, that they have once at least in the year last past, received the Sacrament of the Lord's Supper. And we will order our Constables to make frequent searches in all Taverns, Inns and Ale-houses, within this City and County, and to give us an account of all disorderly persons, that they shall find Tipling there upon the Sunday or other unseasonable times. And because some of our Coffee-Houses are places where idle and disaffected persons, neglecting their Trades and Imployments, dayly resort, and Insolently censure their Governors, and boldly debate matters of State, and spread abroad false news, and where they are commonly supplyed with Seditious Papers, and news Letters, we will strictly enjoyn all Keepers of Coffee-Houses, upon pain of having the severity of the Law inflicted on them, not to permit any such Seditious Papers or discourses to be had within their Houses, and we doubt not but all good Men will comply with us in these our resolutions, which tend to the Honour of Almighty God, and the good Government of this City. Under God's Provi<g ref="char:EOLhyphen"/>dence it is Obedience and submission to Government, that preserves the Peace and Order of the World: But Faction and Sedition was always the Devils business, who in all ages hath cheated Mankind with the false shows and glaring pretences of Religion, let us who have by this means so lately suffered all the miseries of a Civil War, and the horrid mischiefs of a Rebellion be no more so cheated, but let us take the Wise Man's advice to fear God and the King, and not to meddle with those that are given to change,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Endim. Walker, Mayor.</item>
+                     <item>John Beare, Recorder.</item>
+                     <item>Isaac M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wdit.</item>
+                     <item>Henry Gandy.</item>
+                     <item>George Tuthill.</item>
+                     <item>William Sanford.</item>
+                     <item>John Parr.</item>
+                     <item>Henry Smith.</item>
+                  </list>
+               </signed> WE the Grand Inquest of the City and County of <hi>Exon,</hi> do give our humble thanks unto this Honourable Bench and do heartily concur with them in this their Order,
+<signed>
+                  <list>
+                     <item>John Warren.</item>
+                     <item>Edward Cheeke.</item>
+                     <item>Edward Dally.</item>
+                     <item>Jonathan Gunry.</item>
+                     <item>Jos. Long.</item>
+                     <item>William Smith.</item>
+                     <item>Ellis Pinsent.</item>
+                     <item>Edward Parsons.</item>
+                     <item>Sam. Calle.</item>
+                     <item>Charles Alden.</item>
+                     <item>Edmund Nott.</item>
+                     <item>William Jope.</item>
+                     <item>William Norris.</item>
+                     <item>Thomas Potter.</item>
+                     <item>Ed. Bampfield.</item>
+                     <item>Nicolas Roe.</item>
+                     <item>Gilbert Yard.</item>
+                     <item>Robert Buckland.</item>
+                  </list>
+               </signed>
+               <signed>THO. EXON.</signed>
+            </closer>
+            <postscript>
+               <p>That the concerns of this Ancient and Loyal City, for the safety of his Majesties most Sacred Person, and for the Pious, Peaceable, and Orderly Government of all the Inhabitants thereof, may be better known, and taken notice of, We, require all the Ministers, within the Precincts of this City, deliberately to publish this excellent Order of theirs (made the last Quarter Sessions) the very next Lord's day after it shall be tendered to them.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>George May</hi> Book-seller in <hi>Exon,</hi> Anno Dom. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
